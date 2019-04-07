@@ -1,0 +1,12 @@
+inline: "This is a inline text"
+multiline: |
+  This
+  is
+  a
+  multiline
+  text
+key1:
+  key2:
+  - value0
+  - value1
+  - value2

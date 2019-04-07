@@ -1,0 +1,2 @@
+file: file1
+include: !include folder1/file2.yml
