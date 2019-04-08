@@ -1,6 +1,6 @@
 {
   "name": "@wistudent/yaml-include",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process custom !include and !extract tags in yaml files.",
   "respository": {
     "type": "git",
