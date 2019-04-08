@@ -1,8 +1,10 @@
 {
-  "name": "yaml-include",
+  "name": "@wistudent/yaml-include",
   "version": "1.0.0",
-  "description": "",
+  "description": "Process custom !include and !extract tags in yaml files.",
+  "respository": "https://github.com/WIStudent/yaml-include",
   "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest"
