@@ -19,13 +19,13 @@
     "js-yaml": "^3.13.1"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-env": "^7.4.5",
     "@babel/preset-typescript": "^7.3.3",
-    "@types/jest": "^24.0.11",
+    "@types/jest": "^24.0.13",
     "@types/js-yaml": "^3.12.1",
-    "@types/node": "^11.13.0",
-    "jest": "^24.7.1",
-    "typescript": "^3.4.2"
+    "@types/node": "^11.13.13",
+    "jest": "^24.8.0",
+    "typescript": "^3.5.1"
   },
   "bin": {
     "yaml-include": "./dist/cli.js"
